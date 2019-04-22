@@ -1,0 +1,43 @@
+
+.post-header{
+    height: 3rem;
+    width: 100%;
+    display: flex;
+}
+
+.post-header-image{
+    height: 2.5rem;
+    border-radius: 25px;
+    margin-left: 2.5rem;
+    display: flex
+}
+
+.post-header-name{
+    /* height: 2.5rem; */
+    /* border-radius: 25px; */
+    margin-left: 1rem;
+    display: flex;
+    margin:auto 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.post-image{
+    display: flex;
+    width: 90%;
+    margin: .5rem auto;
+}
+
+.icon-1{
+    margin: .2rem 3rem ;
+    
+}
+.icon-2{
+    margin: .2rem -2rem ;
+}
+.likes{
+    margin: 0 3.2rem;
+    font-size: .9rem
+}
+.comment-section{
+    display: flex;
+}

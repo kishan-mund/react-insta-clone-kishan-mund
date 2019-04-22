@@ -1,0 +1,21 @@
+.comment-username{
+    margin:0 3rem;
+    display: flex;
+}
+
+.comments{
+    display: flex;
+    margin-left: -2rem;
+}
+
+.comment-section{
+    display: flex;
+    margin:1rem 0;
+}
+
+.comment-box{
+    width:87%;
+    margin-left:3rem ;
+    height: 3rem;
+    margin-bottom: 2rem;
+}
